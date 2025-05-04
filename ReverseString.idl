@@ -1,0 +1,10 @@
+module ReverseApp{
+    interface Reverse{
+        String reverseString(in string input);
+        };
+
+    };
+
+
+
+//idlj -fall ReverseString.idl
